@@ -68,7 +68,7 @@ const Projects: React.FC<{}> = () => {
           >
             <div className="flex-row flex mb-5">
               <Image
-                src="/adapticLogo.png"
+                src="/adaptec.svg"
                 height={150}
                 width={150}
                 alt="adapticLogo"

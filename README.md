@@ -10,8 +10,7 @@ All project images live under `public/images` and are automatically attached to 
 
 ```bash
 git clone https://github.com/Abakar26/Portfolio.git
-cd Portfolio/
-
+cd Portfolio
 npm i
 npm run dev
 ```
